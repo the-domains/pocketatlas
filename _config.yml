@@ -1,0 +1,28 @@
+name: pocketatlas
+favicon: null
+layout_spectrum: 0.6053009803872555
+typography_spectrum: 0.6802939344197512
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9725883160717785
+  lightness: 0.1432048324495554
+  saturation: 0.03304074867628515
+  rhythmicContrast: 0.6935824754182249
+purpose: []
